@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,500;1,600&display=swap");
 
 body {
     margin: 0 auto;
+    font-family: Helvetica;
 }
 
 .zone {
@@ -19,7 +19,7 @@ body {
 }
 section {
   padding: 5em 2em;
-
+  background: rgb(208, 129, 51);
 }
 .zoneFrang:hover {
     -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
@@ -153,7 +153,7 @@ a {
  }
 
 .About_us li {
-    background: orange;
+    background: rgb(167, 168, 167);
     text-align: center;
     padding: 2em 1em;
     margin: 0 auto 5em auto;
